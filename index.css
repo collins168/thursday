@@ -1,0 +1,50 @@
+.zero{
+    display: flex;
+}
+.zerodiv{
+    background-color: gray;
+    width: 20%;
+    margin:10%;
+}
+.one{
+    flex: 2;
+    padding: 1%;
+    background: linear-gradient(to left, rgb(5, 241, 5), rgb(17, 17, 165));
+}
+.two{
+    flex: 2;
+    padding: 1%;
+    background: linear-gradient(to right,red, rgb(255, 0, 179));
+}
+.three{
+    flex: 2;
+    list-style-type:decimal;
+    padding: 1%;
+    background: linear-gradient(to left, rgb(0, 255, 13),gray);
+}
+.four{
+    flex: 2;
+    list-style-type:decimal;
+    padding: 1%;
+    background: linear-gradient(to left, green, red);
+}
+
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color:blue
+}
+button{
+    color: red;
+    text-align: center;
+}
+input{
+    color: rgb(10, 243, 10);
+    font-family: serif;
+    font-size: larger;
+}
+span{
+    text-align: center;
+    color: whitesmoke;
+    font-family:  cursive;
+}
